@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm José Miguel Moreira
 
-## 🚀 Software Engineer — Automotive & Mobility
+## 🚀 Software Engineer Intern at [SEA:ME](https://seame.space)
 
 Backend and systems (Python, C/C++), CI/CD, Agile. 42 School graduate with 20+ projects and ~100 code reviews. Open to backend, systems, and DevOps roles.
 
