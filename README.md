@@ -6,7 +6,7 @@ Backend and systems (Python, C/C++), CI/CD, Agile. 42 School graduate with 20+ p
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
+### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,15 +25,15 @@ Backend and systems (Python, C/C++), CI/CD, Agile. 42 School graduate with 20+ p
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### **Embedded & Automotive**
+### **Frameworks & Libraries**
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
 
 ### **Tools & Technologies**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,6 +42,7 @@ Backend and systems (Python, C/C++), CI/CD, Agile. 42 School graduate with 20+ p
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D4C41?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -54,14 +55,12 @@ Backend and systems (Python, C/C++), CI/CD, Agile. 42 School graduate with 20+ p
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Android Automotive OS](https://img.shields.io/badge/Android%20Automotive%20OS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
 
 ## 🎯 Featured Projects
 
-### 🚗 **Team06 Autonomous Vehicle** - Complete AV System
+### 🚗 **Autonomous Vehicle** - Complete AV System
 A comprehensive autonomous vehicle system integrating instrument cluster display, lane detection, object detection, and vehicle control.
 
-**Tech Stack:** C++17, Qt6, OpenCV, CUDA, ZeroMQ, CMake
 **Key Features:**
 - Real-time lane detection and tracking
 - Object detection and avoidance systems
@@ -75,7 +74,6 @@ A comprehensive autonomous vehicle system integrating instrument cluster display
 ### 🎛️ **Automotive Cluster Display** - Digital Dashboard
 A modern automotive instrument cluster designed for high-end vehicle dashboards with real-time data visualization.
 
-**Tech Stack:** Qt6, QML, C++17, ZeroMQ
 **Key Features:**
 - Digital speedometer and odometer with smooth animations
 - Dynamic battery level indicator with color-coded states
@@ -89,7 +87,6 @@ A modern automotive instrument cluster designed for high-end vehicle dashboards 
 ### 🌐 **Transcendence** - Multiplayer Gaming Platform
 A comprehensive full-stack web application featuring real-time multiplayer games, user management, and chat system.
 
-**Tech Stack:** Django, WebSockets, PostgreSQL, Redis, Docker, Nginx
 **Key Features:**
 - Real-time multiplayer games (Pong & Snake)
 - JWT authentication with 2FA support
@@ -102,7 +99,6 @@ A comprehensive full-stack web application featuring real-time multiplayer games
 ### 🐚 **Minishell** - Unix Shell Implementation
 A complete implementation of a Unix shell in C, supporting command execution, built-ins, and advanced shell features.
 
-**Tech Stack:** C, System Programming, Unix/Linux
 **Key Features:**
 - Command parsing and execution
 - Built-in commands (cd, echo, export, etc.)
@@ -115,7 +111,6 @@ A complete implementation of a Unix shell in C, supporting command execution, bu
 ### 🌍 **WebServ** - HTTP Server Implementation
 A high-performance HTTP/1.1 web server written in C++ with CGI support and configuration management.
 
-**Tech Stack:** C++98, epoll, Socket Programming, CGI
 **Key Features:**
 - HTTP/1.1 protocol implementation
 - CGI script execution
