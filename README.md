@@ -69,7 +69,7 @@ A comprehensive autonomous vehicle system integrating instrument cluster display
 - Modular architecture with independent components
 - CI/CD pipeline with automated testing and deployment
 
-[![View Project](https://img.shields.io/badge/View_Project-Team06_AV-blue?style=for-the-badge)](https://github.com/zemiguelmoreira/Team06_autonomous-vehicle)
+[![View Project](https://img.shields.io/badge/View_Project-SEAME_AV-blue?style=for-the-badge)](https://github.com/SEAME-pt/Team06_autonomous-vehicle)
 
 ### 🎛️ **Automotive Cluster Display** - Digital Dashboard
 A modern automotive instrument cluster designed for high-end vehicle dashboards with real-time data visualization.
@@ -82,7 +82,7 @@ A modern automotive instrument cluster designed for high-end vehicle dashboards 
 - Professional automotive-grade UI with dark theme
 - High DPI display support and responsive animations
 
-[![View Project](https://img.shields.io/badge/View_Project-Cluster_Display-blue?style=for-the-badge)](https://github.com/zemiguelmoreira/Team06_DES_Instrument-Cluster)
+[![View Project](https://img.shields.io/badge/View_Project-SEAME_CLUSTER-blue?style=for-the-badge)](https://github.com/SEAME-pt/Team06_DES_Instrument-Cluster)
 
 ### 🌐 **Transcendence** - Multiplayer Gaming Platform
 A comprehensive full-stack web application featuring real-time multiplayer games, user management, and chat system.
