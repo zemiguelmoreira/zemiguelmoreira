@@ -3,7 +3,7 @@
 ## 🚀 Software Engineer
 
 Currently focused on mobilty systems, collaborating with a leading company in the sector to advance the technical modernization of mobility services.
-Former [SEA:ME](htto://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
+Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
 
 ## 🛠️ Tech Stack
 
