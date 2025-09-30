@@ -1,9 +1,11 @@
 # 👋 Hi there, I'm José Miguel Moreira
 
+
 ## Software Engineer
 
 Currently focused on mobilty systems, collaborating with a leading company in the sector to advance the technical modernization of mobility services.
 Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
+
 
 ## Tech Stack
 
@@ -40,6 +42,7 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2F5A7A?style=for-the-badge)
+
 
 ## Featured Projects
 
@@ -105,7 +108,10 @@ A high-performance HTTP/1.1 web server written in C++ with CGI support and confi
 
 [![View Project](https://img.shields.io/badge/View_Project-42_WebServ-blue?style=for-the-badge)](https://github.com/zemiguelmoreira/42-webserv)
 
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zemiguelmoreira)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmdmoreira@gmail.com)
+
+
