@@ -5,7 +5,7 @@
 Currently focused on mobilty systems, collaborating with a leading company in the sector to advance the technical modernization of mobility services.
 Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
 
-## Ṭ̵͎̮͗̏̕e̸̢̟̝̳̲̰̤̦̊̎̈́̀̈c̶̨͖̞̈́̐͛̉̈́̃͊͒̚h̶͕̞̲̯͙̦̣́̓̏͊̅̈́̇̉͠ͅͅ ̸̛͈̺̟̫͈͊͂̊̓̚͜S̸̨̙͓̪̎̄͊͝ṭ̵̨̱̳̘̤̈́a̶͖͙̍̈́̏͛̚͝c̵̖͖̭̓̎͑͗̇͌͋͠͝k̴̨̧̧͙̗̞̗̓̄͒͐̇̀̑͑̀
+## Ţ̴̺̠͖͉̗̖͇̔̈́̀ȩ̷̛͖̥̳̜̲̒̀̈̑̉͋̕͘c̷̞͙͈̀̊͋́͆̈́̌̕h̸̨͕͈̲̣͈͙͔̫́̀̀̆̉͘ ̸̤͙̲̖̲̘̗̙͔̀̃̂̀̊Ŝ̵̞̭̠ť̸͉̟̈́͠a̷̗̦̯͈͂̒͐̐͆̂͘͘ç̶̣̖̱͎̬̎́̈́̆̓̋̽k̶̢̰̬̤̘̳͖̻͇̑͋̀
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -41,7 +41,7 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2F5A7A?style=for-the-badge)
 
-## F̷̢̛̟͔̲̄̀̋͋͗̒͘͘e̴̠̲͍̳̙̞͛̍̈́̏̐̓̄̇͠ͅa̴̪͚̜̳̎̾t̵̖̙̠̳̪̳͉͍̤́̅̐ù̶̮̗̘̽̾̋r̵͚̅͌̒̏ͅe̷͈͖̲͓̿̃̎͗͐̂̔d̶̥̼̟̰̞͗͝ͅ ̷̰͈̰͌͌P̶͔̣͙̩̼͌̓̿̈́̚͜ͅr̵̨͇̲̜̖͍̔͆̀͊͆̋͒̉͜ȍ̵͎͊j̸̭̗̥̼̬͒̃́͂̆̒̓͂̎e̴̹̝̻̣͚̻͗̾c̵̝̰͉̬̗͊̋͌͒̓͗͌ţ̶̝͖͎͎̯̑͆́̚s̶͔͔̟̯̱̤̉̇͋̉̐̕ͅͅ
+## F̶̬̘̘̼̣͛̋͋̈́̔̈́͐̚ȩ̵͍̝̞́̆̓̃̒͛a̸̻͙̺̮̹̝͛̽͊̒̽̇̐͠t̵̛̝̻͚͊̿͊͂͌̋̅̈́u̶̮̓͂͗̄r̷̻̦̯͖̯̽͘͝ĕ̵͉̅̓̊͆͗͋̍͠d̸̘̝̬̞̯͇̠̘̉͑̊́̎̇̇̕ ̸̡͙͔̫͚͖̯̗͑̍̿P̸̛͓̀͂̇̄̓͗r̶̗̰̥̭̬̱͐̃̓̂͜ọ̸̐̄̈́̏̆̍͘j̷̝̻͎͉̘̎̂̍̇͂ë̵̪͎͕͓͚́̀̆͑̐̐̋̓c̷̦͈̣̿͑̅͐̋̍͝ţ̶̼̲̭̺̗̮̿̓̍̑̍́͛͘͜s̶͉͕̻͈̺̳̞̖̉̂̀͒
 
 ### 🚗 **Autonomous Vehicle** - Complete AV System
 A comprehensive autonomous vehicle system integrating instrument cluster display, lane detection, object detection, and vehicle control.
