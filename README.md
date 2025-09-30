@@ -47,8 +47,6 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-00BCF2?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Android Automotive OS](https://img.shields.io/badge/Android%20Automotive%20OS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 🎯 Featured Projects
 
