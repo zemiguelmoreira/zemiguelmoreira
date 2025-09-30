@@ -125,11 +125,3 @@ A high-performance HTTP/1.1 web server written in C++ with CGI support and confi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zemiguelmoreira)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmdmoreira@gmail.com)
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate or have any questions.**
-
-</div>
