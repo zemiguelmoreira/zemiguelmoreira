@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm José Miguel Moreira
 
-## 🚀 Software Engineer Intern at [SEA:ME](https://seame.space)
+## 🚀 Software Engineer
 
-Backend and systems (Python, C/C++), CI/CD, Agile. [42 School](https://www.42network.org/) graduate with 20+ projects and ~100 code reviews. Open to backend, systems, and DevOps roles.
+Currently focused on mobilty systems, collaborating with a leading company in the sector to advance the technical modernization of mobility services.
+Former [SEA:ME](htto://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
 
 ## 🛠️ Tech Stack
 
