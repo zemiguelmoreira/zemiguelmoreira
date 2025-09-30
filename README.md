@@ -33,7 +33,6 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D4C41?style=for-the-badge)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -41,12 +40,6 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2F5A7A?style=for-the-badge)
-![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-00BCF2?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## 🎯 Featured Projects
 
