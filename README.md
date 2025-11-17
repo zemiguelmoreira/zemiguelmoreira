@@ -77,6 +77,8 @@ A comprehensive full-stack web application featuring real-time multiplayer games
 
 **Key Features:**
 - Real-time multiplayer games (Pong & Snake)
+- Online user skill-based matchmaking system
+- Real-time chat and invite system
 - JWT authentication with 2FA support
 - WebSocket-based chat system
 - Microservices architecture
