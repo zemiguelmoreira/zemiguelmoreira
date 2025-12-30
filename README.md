@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm José Miguel Moreira
 
-
-## Software Engineer
-
-Currently focused on mobilty systems, working at a leading company in the sector to advance the technical modernization of mobility services.
+Currently focused on mobilty systems, working as a Software Engineer at a leading company in the sector to advance the technical modernization of mobility services.
 Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
 
 
@@ -12,6 +9,7 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +24,7 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
@@ -42,6 +41,7 @@ Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42n
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2F5A7A?style=for-the-badge)
+![Maven](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
 
 
 ## Featured Projects
