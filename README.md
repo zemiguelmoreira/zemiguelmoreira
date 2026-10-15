@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Mobility+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python;Autonomous+vehicles+on+a+Jetson+Nano;Building+BikefitSim+%C2%B7+open+source;42+School+graduate+%C2%B7+former+SEA%3AME+intern" alt="Software Engineer · Mobility Systems" />
 </a>
 
-<a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/LinkedIn-zemiguelmoreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:zmdmoreira@gmail.com"><img src="https://img.shields.io/badge/Email-zmdmoreira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://zemiguelmoreira.github.io"><img src="https://img.shields.io/badge/Website-zemiguelmoreira.github.io-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a> <a href="mailto:zmdmoreira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://zemiguelmoreira.github.io"><img src="https://img.shields.io/badge/Website-0891B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Website" /></a>
 
 </div>
 
@@ -27,36 +25,77 @@
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,bash,md" alt="C, C++, Java, Python, JavaScript, HTML, Bash, Markdown" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c" width="48" alt="C" title="C — Systems programming: Minishell, cub3D, Philosophers" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++ — Autonomous-vehicle stack, Qt instrument cluster, WebServ" />
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" title="Java — Backend development with Spring Boot and Maven" />
+      <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python — PyTorch lane detection, YOLO training, Django backends" />
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript — Transcendence front end and BikefitSim" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML — Web front ends" />
+      <img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash" title="Bash — Shell scripting and automation" />
+      <img src="https://skillicons.dev/icons?i=md" width="48" alt="Markdown" title="Markdown — Documentation and READMEs" />
+    </td>
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring,qt,django,pytorch,opencv" alt="Spring Boot, Qt/QML, Django, PyTorch, OpenCV" /><br/>
-      <sub>+ QML · ZeroMQ · GoogleTest · REST APIs</sub>
+      <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot" title="Spring Boot — Java REST services" />
+      <img src="https://skillicons.dev/icons?i=qt" width="48" alt="Qt" title="Qt — Instrument cluster for the SEA:ME car" />
+      <img src="assets/stack/qml.svg" width="48" alt="QML" title="QML — Declarative UI for the instrument cluster" />
+      <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" title="Django — Transcendence backend with REST Framework and Channels" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch — LineNet lane-segmentation model" />
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV — Computer vision on the autonomous car" />
+      <img src="assets/stack/zeromq.svg" width="48" alt="ZeroMQ" title="ZeroMQ — Messaging between the car's modules" />
+      <img src="assets/stack/googletest.svg" width="48" alt="GoogleTest" title="GoogleTest — C++ unit tests behind a CI coverage gate" />
+      <img src="assets/stack/rest.svg" width="48" alt="REST APIs" title="REST APIs — Designing and consuming HTTP APIs" />
     </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis" /></td>
-  </tr>
-  <tr>
-    <td><b>Platforms & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,redhat,docker,nginx,githubactions" alt="Linux, Red Hat, Docker, Nginx, GitHub Actions" /><br/>
-      <sub>+ NVIDIA Jetson</sub>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL — Relational database for Transcendence" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" title="MySQL — Relational database" />
+      <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis — Caching and real-time messaging for Transcendence" />
     </td>
   </tr>
   <tr>
-    <td><b>Build & tools</b></td>
+    <td><b>Platforms &amp; DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,cmake,maven,postman" alt="Git, GitHub, CMake, Maven, Postman" /><br/>
-      <sub>+ Make · Nmap</sub>
+      <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux — Development, servers and embedded targets" />
+      <img src="https://skillicons.dev/icons?i=redhat" width="48" alt="Red Hat" title="Red Hat — Red Hat Enterprise Linux" />
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker — Containers for Transcendence, Inception and CI" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx" title="Nginx — Reverse proxy and web server" />
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" alt="Ansible" title="Ansible — Configuration management and automation" />
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins" title="Jenkins — CI/CD automation server" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions — CI/CD: tests, coverage gates and deploys" />
+      <img src="assets/stack/jetson.svg" width="48" alt="NVIDIA Jetson" title="NVIDIA Jetson — Edge AI board running the autonomous car" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Build &amp; tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git — Version control" />
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub — Code hosting, reviews and Pages" />
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" alt="GitLab" title="GitLab — Repositories and CI/CD" />
+      <img src="https://skillicons.dev/icons?i=cmake" width="48" alt="CMake" title="CMake — C++ build system" />
+      <img src="https://skillicons.dev/icons?i=maven" width="48" alt="Maven" title="Maven — Java builds and dependencies" />
+      <img src="assets/stack/make.svg" width="48" alt="Make" title="Make — Builds for C and C++ projects" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" title="Postman — API testing" />
+      <img src="assets/stack/nmap.svg" width="48" alt="Nmap" title="Nmap — Network discovery and security scanning" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Collaboration</b></td>
+    <td>
+      <img src="assets/stack/jira.svg" width="48" alt="Jira" title="Jira — Agile Scrum planning and issue tracking" />
+      <img src="assets/stack/confluence.svg" width="48" alt="Confluence" title="Confluence — Team documentation" />
     </td>
   </tr>
   <tr>
     <td><b>AI tooling</b></td>
-    <td><a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a></td>
+    <td>
+      <img src="assets/stack/claude-code.svg" width="48" alt="Claude Code" title="Claude Code — AI-assisted engineering" />
+    </td>
   </tr>
 </table>
 
@@ -144,11 +183,3 @@
 | [Libft](https://github.com/zemiguelmoreira/42-Libft) | My own C standard library | C |
 
 </details>
-
-### Let's connect
-
-Open to conversations about mobility, automotive software and systems engineering.
-
-<a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:zmdmoreira@gmail.com"><img src="https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-<a href="https://zemiguelmoreira.github.io"><img src="https://img.shields.io/badge/Visit_my_site-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my site" /></a>
