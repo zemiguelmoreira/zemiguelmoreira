@@ -1,119 +1,141 @@
-# 👋 Hi there, I'm José Miguel Moreira
+<div align="center">
 
-Currently focused on mobilty systems, working as a Software Engineer at a leading company in the sector to advance the technical modernization of mobility services.
-Former [SEA:ME](https://www.seame.space/) Intern and [42 School](https://www.42network.org/) graduate.
+# Hi, I'm José Miguel Moreira 👋
 
+<a href="https://zemiguelmoreira.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Mobility+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python;Autonomous+vehicles+on+a+Jetson+Nano;42+School+graduate+%C2%B7+former+SEA%3AME+intern" alt="Software Engineer · Mobility Systems" />
+</a>
 
-## Tech Stack
+<a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/LinkedIn-zemiguelmoreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:zmdmoreira@gmail.com"><img src="https://img.shields.io/badge/Email-zmdmoreira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://zemiguelmoreira.github.io"><img src="https://img.shields.io/badge/Website-zemiguelmoreira.github.io-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
 
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</div>
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
-![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
+### About me
 
-### **Tools & Technologies**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D4C41?style=for-the-badge)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2F5A7A?style=for-the-badge)
-![Maven](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🚦 **Software Engineer** focused on **mobility systems**, advancing the technical modernization of mobility services at a leading company in the sector.
+- 🚗 Former **[SEA:ME](https://www.seame.space/) intern**: built an autonomous model car end to end, from lane segmentation and traffic-sign detection to a Qt instrument cluster.
+- 🎓 **[42 School](https://www.42network.org/) graduate**: shells, HTTP servers, raycasters and containers written from scratch in C and C++.
+- 🤖 AI-assisted engineering with **Claude Code**.
 
+### Tech stack
 
-## Featured Projects
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,bash,md" alt="C, C++, Java, Python, JavaScript, HTML, Bash, Markdown" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,qt,django,pytorch,opencv" alt="Spring Boot, Qt/QML, Django, PyTorch, OpenCV" /><br/>
+      <sub>+ QML · ZeroMQ · GoogleTest · REST APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis" /></td>
+  </tr>
+  <tr>
+    <td><b>Platforms & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,redhat,docker,nginx,githubactions" alt="Linux, Red Hat, Docker, Nginx, GitHub Actions" /><br/>
+      <sub>+ NVIDIA Jetson</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Build & tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,cmake,maven,postman" alt="Git, GitHub, CMake, Maven, Postman" /><br/>
+      <sub>+ Make · Nmap</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI tooling</b></td>
+    <td><a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a></td>
+  </tr>
+</table>
 
-### **Autonomous Vehicle** - Complete AV System
-A comprehensive autonomous vehicle system integrating instrument cluster display, lane detection, object detection, and vehicle control.
+### Featured projects
 
-**Key Features:**
-- Real-time lane detection and tracking
-- Object detection and avoidance systems
-- Digital instrument cluster with Qt6 interface
-- ZeroMQ-based inter-module communication
-- Modular architecture with independent components
-- CI/CD pipeline with automated testing and deployment
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/SEAME-pt/Team06_autonomous-vehicle">Autonomous Vehicle</a></h4>
+      <sub>SEA:ME · Team06</sub>
+      <p>Full self-driving stack for a Jetson Nano model car. Perception, control and display run as separate modules over ZeroMQ, and CI/CD deploys to the hardware with an 80% coverage gate.</p>
+      <p>
+        <a href="https://github.com/SEAME-pt/Team06_ADS_Autonomous-Lane-Detection">Lane detection</a> ·
+        <a href="https://github.com/SEAME-pt/Team06_ADS_Object-Detection-and-Avoidance">Object detection</a> ·
+        <a href="https://github.com/SEAME-pt/Team06_DES_Instrument-Cluster">Instrument cluster</a>
+      </p>
+      <code>C++</code> <code>ZeroMQ</code> <code>OpenCV</code> <code>Jetson</code> <code>GitHub Actions</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📟 <a href="https://github.com/SEAME-pt/Team06_DES_Instrument-Cluster">Instrument Cluster</a></h4>
+      <sub>SEA:ME · Team06</sub>
+      <p>Automotive-style digital dashboard with an animated speedometer and odometer, color-coded battery state, and lane-departure and obstacle alerts streamed from the driving stack.</p>
+      <code>C++</code> <code>Qt</code> <code>QML</code> <code>CMake</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛣️ <a href="https://github.com/SEAME-pt/Team06_ADS_Autonomous-Lane-Detection">LineNet lane detection</a></h4>
+      <sub>SEA:ME · Team06</sub>
+      <p>Lightweight lane-line segmentation network trained in PyTorch, exported to ONNX and built with TensorRT to run in real time on the car.</p>
+      <code>PyTorch</code> <code>ONNX</code> <code>TensorRT</code> <code>C++</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏓 <a href="https://github.com/zemiguelmoreira/42-transcendence">Transcendence</a></h4>
+      <sub>42 School</sub>
+      <p>Multiplayer gaming platform with real-time Pong and Snake, skill-based matchmaking, live chat and JWT + 2FA auth, built as Dockerized microservices.</p>
+      <code>Django</code> <code>Channels</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/zemiguelmoreira/42-webserv">WebServ</a></h4>
+      <sub>42 School</sub>
+      <p>HTTP/1.1 server from scratch: non-blocking epoll event loop, CGI, multiple server blocks and an nginx-style config parser.</p>
+      <code>C++</code> <code>epoll</code> <code>HTTP/1.1</code> <code>CGI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐚 <a href="https://github.com/zemiguelmoreira/42-minishell">Minishell</a></h4>
+      <sub>42 School</sub>
+      <p>A Bash-like Unix shell with parsing, pipes, redirections, environment variables, built-ins and signal handling.</p>
+      <code>C</code> <code>POSIX</code> <code>processes</code> <code>signals</code>
+    </td>
+  </tr>
+</table>
 
-[![View Project](https://img.shields.io/badge/View_Project-SEAME_AV-blue?style=for-the-badge)](https://github.com/SEAME-pt/Team06_autonomous-vehicle)
+<details>
+<summary><b>🎓 More from the 42 curriculum</b></summary>
+<br/>
 
-### **Automotive Cluster Display** - Digital Dashboard
-A modern automotive instrument cluster designed for high-end vehicle dashboards with real-time data visualization.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [cub3D](https://github.com/zemiguelmoreira/42-cub3d) | Wolfenstein-style raycasting engine | C · MiniLibX |
+| [Philosophers](https://github.com/zemiguelmoreira/42-Philosophers) | Dining philosophers with threads and mutexes | C · pthreads |
+| [Inception](https://github.com/zemiguelmoreira/42-Inception) | Multi-container infrastructure with Docker Compose | Docker · Shell |
+| [Born2beroot](https://github.com/zemiguelmoreira/42-Born2beroot) | Hardened Linux server: SSH, UFW, WordPress | Linux · Bash |
+| [NetPractice](https://github.com/zemiguelmoreira/42-NetPractice) | IP addressing, subnet masks, routing | Networking |
+| [CPP Modules](https://github.com/zemiguelmoreira/42-CPP_Modules) | C++ fundamentals, OOP and templates | C++ |
+| [push_swap](https://github.com/zemiguelmoreira/42-push_swap) | Stack sorting with a minimal instruction set | C |
+| [minitalk](https://github.com/zemiguelmoreira/42-minitalk) | Client/server messaging over UNIX signals | C |
+| [so_long](https://github.com/zemiguelmoreira/42-so_long) | Small 2D game | C · MiniLibX |
+| [ft_printf](https://github.com/zemiguelmoreira/42-ft_printf) | `printf` re-implemented | C |
+| [get_next_line](https://github.com/zemiguelmoreira/42-get_next_line) | Line-by-line reads from a file descriptor | C |
+| [Libft](https://github.com/zemiguelmoreira/42-Libft) | My own C standard library | C |
 
-**Key Features:**
-- Digital speedometer and odometer with smooth animations
-- Dynamic battery level indicator with color-coded states
-- Advanced driver assistance visualizations
-- Real-time lane departure warnings and object detection alerts
-- Professional automotive-grade UI with dark theme
-- High DPI display support and responsive animations
+</details>
 
-[![View Project](https://img.shields.io/badge/View_Project-SEAME_CLUSTER-blue?style=for-the-badge)](https://github.com/SEAME-pt/Team06_DES_Instrument-Cluster)
+### Let's connect
 
-### **Transcendence** - Multiplayer Gaming Platform
-A comprehensive full-stack web application featuring real-time multiplayer games, user management, and chat system.
+Open to conversations about mobility, automotive software and systems engineering.
 
-**Key Features:**
-- Real-time multiplayer games (Pong & Snake)
-- Online user skill-based matchmaking system
-- Real-time chat and invite system
-- JWT authentication with 2FA support
-- WebSocket-based chat system
-- Microservices architecture
-- Docker containerization
-
-[![View Project](https://img.shields.io/badge/View_Project-42_Transcendence-blue?style=for-the-badge)](https://github.com/zemiguelmoreira/42-transcendence)
-
-### **Minishell** - Unix Shell Implementation
-A complete implementation of a Unix shell in C, supporting command execution, built-ins, and advanced shell features.
-
-**Key Features:**
-- Command parsing and execution
-- Built-in commands (cd, echo, export, etc.)
-- Environment variable management
-- Signal handling and process management
-- Redirections and pipes
-
-[![View Project](https://img.shields.io/badge/View_Project-42_Minishell-blue?style=for-the-badge)](https://github.com/zemiguelmoreira/42-minishell)
-
-### **WebServ** - HTTP Server Implementation
-A high-performance HTTP/1.1 web server written in C++ with CGI support and configuration management.
-
-**Key Features:**
-- HTTP/1.1 protocol implementation
-- CGI script execution
-- Configuration file parsing
-- Event-driven architecture with epoll
-- Multiple server blocks support
-
-[![View Project](https://img.shields.io/badge/View_Project-42_WebServ-blue?style=for-the-badge)](https://github.com/zemiguelmoreira/42-webserv)
-
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zemiguelmoreira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmdmoreira@gmail.com)
-
-
+<a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:zmdmoreira@gmail.com"><img src="https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://zemiguelmoreira.github.io"><img src="https://img.shields.io/badge/Visit_my_site-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my site" /></a>
