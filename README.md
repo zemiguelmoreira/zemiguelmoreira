@@ -3,7 +3,7 @@
 # Hi, I'm José Miguel Moreira 👋
 
 <a href="https://zemiguelmoreira.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Mobility+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python;Autonomous+vehicles+on+a+Jetson+Nano;42+School+graduate+%C2%B7+former+SEA%3AME+intern" alt="Software Engineer · Mobility Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Mobility+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python;Autonomous+vehicles+on+a+Jetson+Nano;Building+BikefitSim+%C2%B7+open+source;42+School+graduate+%C2%B7+former+SEA%3AME+intern" alt="Software Engineer · Mobility Systems" />
 </a>
 
 <a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/LinkedIn-zemiguelmoreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,6 +19,7 @@
 - 🚦 **Software Engineer** focused on **mobility systems**, advancing the technical modernization of mobility services at a leading company in the sector.
 - 🚗 Former **[SEA:ME](https://www.seame.space/) intern**: built an autonomous model car end to end, from lane segmentation and traffic-sign detection to a Qt instrument cluster.
 - 🎓 **[42 School](https://www.42network.org/) graduate**: shells, HTTP servers, raycasters and containers written from scratch in C and C++.
+- 🚲 Building **[BikefitSim](https://bikefitsim.github.io/)**, an open-source app that clones your bike fit from any bike to any other.
 - 🤖 AI-assisted engineering with **Claude Code**.
 
 ### Tech stack
@@ -62,6 +63,18 @@
 ### Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🚲 <a href="https://bikefitsim.github.io/">BikefitSim</a></h4>
+      <sub>Open source · MIT</sub>
+      <p>Clone your bike fit from any bike to any other. Start from a bike that fits you, or just your measurements, add the geometry of any frame, and BikefitSim works out saddle height, setback, rail position, stem and spacers so your saddle tip and hands land in exactly the same place. Side-view drawings overlay the new frame on your current one.</p>
+      <p>
+        <a href="https://bikefitsim.github.io/"><img src="https://img.shields.io/badge/Open_the_app-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open the app" /></a>
+        <a href="https://github.com/BikefitSim/bikefitsim.github.io"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub" /></a>
+      </p>
+      <code>JavaScript</code> <code>SVG</code> <code>Node tests</code> <code>GitHub Actions</code> <code>MIT</code>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🚗 <a href="https://github.com/SEAME-pt/Team06_autonomous-vehicle">Autonomous Vehicle</a></h4>
