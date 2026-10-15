@@ -41,13 +41,13 @@
     <td>
       <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot" title="Spring Boot — Java REST services" />
       <img src="https://skillicons.dev/icons?i=qt" width="48" alt="Qt" title="Qt — Instrument cluster for the SEA:ME car" />
-      <img src="assets/stack/qml.svg" width="48" alt="QML" title="QML — Declarative UI for the instrument cluster" />
+      <img src="https://zemiguelmoreira.github.io/stack/qml.svg" width="48" alt="QML" title="QML — Declarative UI for the instrument cluster" />
       <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" title="Django — Transcendence backend with REST Framework and Channels" />
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch — LineNet lane-segmentation model" />
       <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV — Computer vision on the autonomous car" />
-      <img src="assets/stack/zeromq.svg" width="48" alt="ZeroMQ" title="ZeroMQ — Messaging between the car's modules" />
-      <img src="assets/stack/googletest.svg" width="48" alt="GoogleTest" title="GoogleTest — C++ unit tests behind a CI coverage gate" />
-      <img src="assets/stack/rest.svg" width="48" alt="REST APIs" title="REST APIs — Designing and consuming HTTP APIs" />
+      <img src="https://zemiguelmoreira.github.io/stack/zeromq.svg" width="48" alt="ZeroMQ" title="ZeroMQ — Messaging between the car's modules" />
+      <img src="https://zemiguelmoreira.github.io/stack/googletest.svg" width="48" alt="GoogleTest" title="GoogleTest — C++ unit tests behind a CI coverage gate" />
+      <img src="https://zemiguelmoreira.github.io/stack/rest.svg" width="48" alt="REST APIs" title="REST APIs — Designing and consuming HTTP APIs" />
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@
       <img src="https://skillicons.dev/icons?i=ansible" width="48" alt="Ansible" title="Ansible — Configuration management and automation" />
       <img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins" title="Jenkins — CI/CD automation server" />
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions — CI/CD: tests, coverage gates and deploys" />
-      <img src="assets/stack/jetson.svg" width="48" alt="NVIDIA Jetson" title="NVIDIA Jetson — Edge AI board running the autonomous car" />
+      <img src="https://zemiguelmoreira.github.io/stack/jetson.svg" width="48" alt="NVIDIA Jetson" title="NVIDIA Jetson — Edge AI board running the autonomous car" />
     </td>
   </tr>
   <tr>
@@ -79,22 +79,22 @@
       <img src="https://skillicons.dev/icons?i=gitlab" width="48" alt="GitLab" title="GitLab — Repositories and CI/CD" />
       <img src="https://skillicons.dev/icons?i=cmake" width="48" alt="CMake" title="CMake — C++ build system" />
       <img src="https://skillicons.dev/icons?i=maven" width="48" alt="Maven" title="Maven — Java builds and dependencies" />
-      <img src="assets/stack/make.svg" width="48" alt="Make" title="Make — Builds for C and C++ projects" />
+      <img src="https://zemiguelmoreira.github.io/stack/make.svg" width="48" alt="Make" title="Make — Builds for C and C++ projects" />
       <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" title="Postman — API testing" />
-      <img src="assets/stack/nmap.svg" width="48" alt="Nmap" title="Nmap — Network discovery and security scanning" />
+      <img src="https://zemiguelmoreira.github.io/stack/nmap.svg" width="48" alt="Nmap" title="Nmap — Network discovery and security scanning" />
     </td>
   </tr>
   <tr>
     <td><b>Collaboration</b></td>
     <td>
-      <img src="assets/stack/jira.svg" width="48" alt="Jira" title="Jira — Agile Scrum planning and issue tracking" />
-      <img src="assets/stack/confluence.svg" width="48" alt="Confluence" title="Confluence — Team documentation" />
+      <img src="https://zemiguelmoreira.github.io/stack/jira.svg" width="48" alt="Jira" title="Jira — Agile Scrum planning and issue tracking" />
+      <img src="https://zemiguelmoreira.github.io/stack/confluence.svg" width="48" alt="Confluence" title="Confluence — Team documentation" />
     </td>
   </tr>
   <tr>
     <td><b>AI tooling</b></td>
     <td>
-      <img src="assets/stack/claude-code.svg" width="48" alt="Claude Code" title="Claude Code — AI-assisted engineering" />
+      <img src="https://zemiguelmoreira.github.io/stack/claude-code.svg" width="48" alt="Claude Code" title="Claude Code — AI-assisted engineering" />
     </td>
   </tr>
 </table>
