@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm José Miguel Moreira 👋
+# Hi, I'm José Miguel Moreira
 
 <a href="https://zemiguelmoreira.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Mobility+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python;Autonomous+vehicles+on+a+Jetson+Nano;Building+BikefitSim+%C2%B7+open+source;42+School+graduate+%C2%B7+former+SEA%3AME+intern" alt="Software Engineer · Mobility Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Mobility+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python;Autonomous+vehicles+on+a+Jetson+Nano;Building+BikefitSim+%C2%B7+open+source;42+School+graduate+%C2%B7+former+SEA%3AME+intern" alt="Software Engineer · Mobility Systems" />
 </a>
 
 <a href="https://linkedin.com/in/zemiguelmoreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a> <a href="mailto:zmdmoreira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://zemiguelmoreira.github.io"><img src="https://img.shields.io/badge/Website-0891B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Website" /></a>
@@ -14,11 +14,11 @@
 
 ### About me
 
-- 🚦 **Software Engineer** focused on **mobility systems**, advancing the technical modernization of mobility services at a leading company in the sector.
-- 🚗 Former **[SEA:ME](https://www.seame.space/) intern**: built an autonomous model car end to end, from lane segmentation and traffic-sign detection to a Qt instrument cluster.
-- 🎓 **[42 School](https://www.42network.org/) graduate**: shells, HTTP servers, raycasters and containers written from scratch in C and C++.
-- 🚲 Building **[BikefitSim](https://bikefitsim.github.io/)**, an open-source app that clones your bike fit from any bike to any other.
-- 🤖 AI-assisted engineering with **Claude Code**.
+- **Software Engineer** focused on **mobility systems**, advancing the technical modernization of mobility services at a leading company in the sector.
+- Former **[SEA:ME](https://www.seame.space/) intern**: built an autonomous model car end to end, from lane segmentation and traffic-sign detection to a Qt instrument cluster.
+- **[42 School](https://www.42network.org/) graduate**: shells, HTTP servers, raycasters and containers written from scratch in C and C++.
+- Building **[BikefitSim](https://bikefitsim.github.io/)**, an open-source app that clones your bike fit from any bike to any other.
+- AI-assisted engineering with **Claude Code**.
 
 ### Tech stack
 
@@ -43,7 +43,7 @@
       <img src="https://skillicons.dev/icons?i=qt" width="48" alt="Qt" title="Qt — Instrument cluster for the SEA:ME car" />
       <img src="https://zemiguelmoreira.github.io/stack/qml.svg" width="48" alt="QML" title="QML — Declarative UI for the instrument cluster" />
       <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" title="Django — Transcendence backend with REST Framework and Channels" />
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch — LineNet lane-segmentation model" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch — lane-segmentation model" />
       <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV — Computer vision on the autonomous car" />
       <img src="https://zemiguelmoreira.github.io/stack/zeromq.svg" width="48" alt="ZeroMQ" title="ZeroMQ — Messaging between the car's modules" />
       <img src="https://zemiguelmoreira.github.io/stack/googletest.svg" width="48" alt="GoogleTest" title="GoogleTest — C++ unit tests behind a CI coverage gate" />
@@ -104,19 +104,15 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🚲 <a href="https://bikefitsim.github.io/">BikefitSim</a></h4>
+      <h4><a href="https://bikefitsim.github.io/">BikefitSim</a></h4>
       <sub>Open source · MIT</sub>
       <p>Clone your bike fit from any bike to any other. Start from a bike that fits you, or just your measurements, add the geometry of any frame, and BikefitSim works out saddle height, setback, rail position, stem and spacers so your saddle tip and hands land in exactly the same place. Side-view drawings overlay the new frame on your current one.</p>
-      <p>
-        <a href="https://bikefitsim.github.io/"><img src="https://img.shields.io/badge/Open_the_app-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open the app" /></a>
-        <a href="https://github.com/BikefitSim/bikefitsim.github.io"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub" /></a>
-      </p>
       <code>JavaScript</code> <code>SVG</code> <code>Node tests</code> <code>GitHub Actions</code> <code>MIT</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚗 <a href="https://github.com/SEAME-pt/Team06_autonomous-vehicle">Autonomous Vehicle</a></h4>
+      <h4><a href="https://github.com/SEAME-pt/Team06_autonomous-vehicle">Autonomous Vehicle</a></h4>
       <sub>SEA:ME · Team06</sub>
       <p>Full self-driving stack for a Jetson Nano model car. Perception, control and display run as separate modules over ZeroMQ, and CI/CD deploys to the hardware with an 80% coverage gate.</p>
       <p>
@@ -127,7 +123,7 @@
       <code>C++</code> <code>ZeroMQ</code> <code>OpenCV</code> <code>Jetson</code> <code>GitHub Actions</code>
     </td>
     <td width="50%" valign="top">
-      <h4>📟 <a href="https://github.com/SEAME-pt/Team06_DES_Instrument-Cluster">Instrument Cluster</a></h4>
+      <h4><a href="https://github.com/SEAME-pt/Team06_DES_Instrument-Cluster">Instrument Cluster</a></h4>
       <sub>SEA:ME · Team06</sub>
       <p>Automotive-style digital dashboard with an animated speedometer and odometer, color-coded battery state, and lane-departure and obstacle alerts streamed from the driving stack.</p>
       <code>C++</code> <code>Qt</code> <code>QML</code> <code>CMake</code>
@@ -135,13 +131,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛣️ <a href="https://github.com/SEAME-pt/Team06_ADS_Autonomous-Lane-Detection">LineNet lane detection</a></h4>
+      <h4><a href="https://github.com/SEAME-pt/Team06_ADS_Autonomous-Lane-Detection">Lane Detection</a></h4>
       <sub>SEA:ME · Team06</sub>
       <p>Lightweight lane-line segmentation network trained in PyTorch, exported to ONNX and built with TensorRT to run in real time on the car.</p>
       <code>PyTorch</code> <code>ONNX</code> <code>TensorRT</code> <code>C++</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🏓 <a href="https://github.com/zemiguelmoreira/42-transcendence">Transcendence</a></h4>
+      <h4><a href="https://github.com/zemiguelmoreira/42-transcendence">Transcendence</a></h4>
       <sub>42 School</sub>
       <p>Multiplayer gaming platform with real-time Pong and Snake, skill-based matchmaking, live chat and JWT + 2FA auth, built as Dockerized microservices.</p>
       <code>Django</code> <code>Channels</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
@@ -149,13 +145,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/zemiguelmoreira/42-webserv">WebServ</a></h4>
+      <h4><a href="https://github.com/zemiguelmoreira/42-webserv">WebServ</a></h4>
       <sub>42 School</sub>
       <p>HTTP/1.1 server from scratch: non-blocking epoll event loop, CGI, multiple server blocks and an nginx-style config parser.</p>
       <code>C++</code> <code>epoll</code> <code>HTTP/1.1</code> <code>CGI</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🐚 <a href="https://github.com/zemiguelmoreira/42-minishell">Minishell</a></h4>
+      <h4><a href="https://github.com/zemiguelmoreira/42-minishell">Minishell</a></h4>
       <sub>42 School</sub>
       <p>A Bash-like Unix shell with parsing, pipes, redirections, environment variables, built-ins and signal handling.</p>
       <code>C</code> <code>POSIX</code> <code>processes</code> <code>signals</code>
@@ -164,7 +160,7 @@
 </table>
 
 <details>
-<summary><b>🎓 More from the 42 curriculum</b></summary>
+<summary><b>More from the 42 curriculum</b></summary>
 <br/>
 
 | Project | What it is | Stack |
