@@ -18,7 +18,6 @@
 - Former **[SEA:ME](https://www.seame.space/) intern**: built an autonomous model car end to end, from lane segmentation and traffic-sign detection to a Qt instrument cluster.
 - **[42 School](https://www.42network.org/) graduate**: shells, HTTP servers, raycasters and containers written from scratch in C and C++.
 - Building **[BikefitSim](https://bikefitsim.github.io/)**, an open-source app that clones your bike fit from any bike to any other.
-- AI-assisted engineering with **Claude Code**.
 
 ### Tech stack
 
